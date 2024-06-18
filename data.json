@@ -1,0 +1,44 @@
+[
+{
+  "id": 1,
+  "img": "/img/item1.jpg",
+  "title": "Man jacket",
+  "description": "Warm and Comfortable",
+  "price": 52
+},
+{
+  "id": 2,
+  "img": "/img/item2.png",
+  "title": "Women's dress",
+  "description": "Beautiful and stylish",
+  "price": 60
+},
+{
+  "id": 3,
+  "img": "/img/item3.png",
+  "title": "Men's shorts",
+  "description": "Summer and cool",
+  "price": 30
+},
+{
+  "id": 4,
+  "img": "/img/item4.png",
+  "title": "Man's T-shirt",
+  "description": "Comfortable and beautiful",
+  "price": 67
+},
+{
+  "id": 5,
+  "img": "/img/item5.png",
+  "title": "Women's dress",
+  "description": "Stylish and Office",
+  "price": 58
+},
+{
+  "id": 6,
+  "img": "/img/item6.png",
+  "title": "Women's shirt",
+  "description": "Beautiful stylish",
+  "price": 72
+}
+]
